@@ -1,3 +1,10 @@
+# Jaxson's First CS193 Homework
+My favorite parts about CS 193:
+ - I like that it is only once a week
+ - I like that the homework is chill
+ - I love the TA's <3
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
